@@ -24,6 +24,7 @@
     <ProjectGuid>{ffa73f9f-e3b1-4d84-9132-9e46bfc55f66}</ProjectGuid>
     <RootNamespace>Class4thOverflowUnderflow</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Class4th (Overflow &amp; Underflow)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
